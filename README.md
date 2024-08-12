@@ -39,7 +39,6 @@ Sou **Thomas Leon Rodrigues**, um estudante de Ciência da Computação na Unive
   - **Universidade Regional de Blumenau (FURB)**: Bacharelado em Ciência da Computação. 
 
 ### Contato
--
 - **E-mail**: galanislyan@gmail.com
 
 ### Citação Inspiradora
