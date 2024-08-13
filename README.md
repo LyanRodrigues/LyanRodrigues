@@ -5,9 +5,9 @@
 Sou **Thomas Leon Rodrigues**, um estudante de Ciência da Computação na Universidade Regional de Blumenau (FURB). Minha paixão por programação e design me leva a explorar constantemente novas tecnologias e técnicas. Tenho experiência em **Java**, **HTML** e **CSS**, e estou sempre em busca de maneiras de aplicar meus conhecimentos em projetos interessantes e desafiadores.
 
 <div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyanrodrigues&show_icons=true&theme=midnight-purple)
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lyanrodrigues&count_private=true&show_icons=true&theme=midnight-purple" width="400" height=auto>
+  </a>                                                                                                                  
 </div>
 
 ## Competências Técnicas
